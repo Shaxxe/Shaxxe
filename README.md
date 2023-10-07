@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shaxxe
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Developing and C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Developing, Game Developing and C#
 - 📫 You can reach me via mail muratozturk3734@hotmail.com
 
 <!---
